@@ -1,11 +1,11 @@
 
-import './App.css'
 
 function App() {
 
   return (
     <>
-      <h1>Heloo</h1>
+      <h1>Heloo World</h1>
+ 
     </>
   )
 }
